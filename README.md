@@ -109,8 +109,7 @@ python cnefe2022_wide_v3.py
 ## Data & licensing
 
 - **Data**: CNEFE is published by IBGE. Respect the IBGE terms of use for datasets you process.  
-- **Code license**: add an OSI-approved license (e.g., MIT) at repo root.  
-- **Citation**: include a `CITATION.cff` or cite the repo and JOSS paper (see `paper.md`).
+- **Citation**: see `paper.md'.
 
 ---
 
