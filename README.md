@@ -6,7 +6,7 @@ Tools to parse, classify, and aggregate Brazil’s **CNEFE** address data. The r
 
 ---
 
-## What’s inside
+## What’s inside 
 
 - **2022 workflow** (GeoJSON points → wide categories + subtypes)
 - Consistent outputs: **GPKG**, **GeoJSON**, **CSV** (per-point + aggregated by `NUM_FACE` and `COD_SETOR`)
