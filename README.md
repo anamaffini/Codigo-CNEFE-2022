@@ -109,7 +109,7 @@ python cnefe2022_wide_v3.py
 ## Data & licensing
 
 - **Data**: CNEFE is published by IBGE. Respect the IBGE terms of use for datasets you process.  
-- **Citation**: see `paper.md'.
+- **Citation**: MAFFINI, A.L. (2025) *Código CNEFE — Reproducible pipelines for CNEFE 2022* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17184232
 
 ---
 
